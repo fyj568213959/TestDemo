@@ -13,7 +13,7 @@ public class MainActivity extends ActionBarActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		Log.i("tag", "");
+		Log.i("tag", "123");
 
 	}
 
