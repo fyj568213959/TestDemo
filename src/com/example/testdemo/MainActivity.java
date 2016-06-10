@@ -14,7 +14,7 @@ public class MainActivity extends ActionBarActivity {
 		setContentView(R.layout.activity_main);
 
 		Log.i("tag", "123");
-		Log.i("tag", "456");
+		Log.i("tag", "456789");
 
 	}
 
